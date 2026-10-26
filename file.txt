@@ -1,5 +1,3 @@
 Hello, Git
 Second line in the file
-Third line in the file
-Fourth line in the file "Testing branch"
-Fifth line in the file "Testing branch"
+Third line in master branch
